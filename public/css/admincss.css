@@ -1,0 +1,8 @@
+body{
+
+	background-image: {{ URL::asset('public/images/build.jpg') }};		
+	background-color:black;
+	bgcolor:black;
+	
+
+}
